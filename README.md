@@ -1,6 +1,6 @@
-Hi, I'm rhz.
+wsp,
 
-I write Python tools that take care of repetitive work – file automation, scripts, small bots and Windows desktop apps (PySide6).
+i almost found out who JSON is
 
 ### Projects
 
