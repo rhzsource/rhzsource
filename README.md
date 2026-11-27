@@ -6,3 +6,4 @@ I write Python tools that take care of repetitive work – file automation, scri
 
 - [tidydir](https://github.com/rhzsource/tidydir) – sorts a messy folder by file type or date, with dry-run and undo
 - [devclean](https://github.com/rhzsource/devclean) – finds node_modules, virtualenvs and build leftovers across all your projects and frees the space safely
+- [docrun](https://github.com/rhzsource/docrun) – runs the shell examples in your README and checks they still work
